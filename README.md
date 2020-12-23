@@ -25,3 +25,7 @@ Motor encoder is used to determine how many turns the motor(wheel) had during th
 
 ### Ultrasonic sensor intro
 Ultrasonic distance sensor is used to make sure the robot does not collide with an object, here the potentiometer is used to simulate the distance to the obstacle in front of the turtlebot robot. When an object is close the led should turn on and warning message should be printed.
+
+
+
+[Follow me on LinkdIn](https://www.linkedin.com/in/dakshitha-dissanayaka-099a09143/)
