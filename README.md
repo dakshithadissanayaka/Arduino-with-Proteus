@@ -1,2 +1,23 @@
-# Arduino_with_Proteus
 Arduino projects using proteus in my university every day learning.
+
+# DC Motor Control using XBee and Arduino
+There are two Proteus Simulations. The first Simulation is of Remote control with a keypad. The second simulation contains two DC Motors. The direction of those DC Motors is controlled using Remote Control. XBee Module is used for sending wireless data.
+
+XBee intro
+XBee is a brand from Digi International which represents a series of radio devices based on the 802.15.4 standard (2003). As of today, the XBee modules present themselves with a wide range of product designs to support a variety of needs in the field of communications.
+In order to configure an XBee module we have to be able to “talk” to it. There are several ways to communicate to an XBee, such as, a direct connection using an Arduino as the interface between the computer and module, or using a breakout board. ZigBee networks are called personal area networks or PANs. Each network is defined with a unique PAN identifier (PAN ID). If multiple ZigBee networks are operating within range of each other, each should have unique PAN IDs. In ZigBee networks, the coordinator must select a PAN ID and channel to start a network.
+
+L298N Motor Driver Module intro
+This L298N Motor Driver Module is a high power motor driver module for driving DC and Stepper Motors. This module consists of an L298 motor driver IC and a 78M05 5V regulator. L298N Module can control up to 4 DC motors, or 2 DC motors with directional and speed control.
+
+# CONTROL SYSTEM FOR TURTLE BOT
+There are two Proteus Simulations. The first Simulation is of Remote control with a keypad. The second simulation contains two DC Motors. The direction of those DC Motors is controlled using Remote Control. XBee Module is used for sending wireless data.
+
+Turtle Bot intro
+TurtleBot is a low-cost, personal robot kit with open-source software. TurtleBot was created at Willow Garage by Melonee Wise and Tully Foote in November 2010. With TurtleBot, We’ll be able to build a robot that can drive around your house, see in 3D, and have enough horsepower to create exciting applications
+
+Motor Encoder intro
+Motor encoder is used to determine how many turns the motor(wheel) had during the period.
+
+Ultrasonic sensor intro
+Ultrasonic distance sensor is used to make sure the robot does not collide with an object, here the potentiometer is used to simulate the distance to the obstacle in front of the turtlebot robot. When an object is close the led should turn on and warning message should be printed.
