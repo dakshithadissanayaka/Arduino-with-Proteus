@@ -36,6 +36,13 @@ Motor encoder is used to determine how many turns the motor(wheel) had during th
 Ultrasonic distance sensor is used to make sure the robot does not collide with an object, here the potentiometer is used to simulate the distance to the obstacle in front of the turtlebot robot. When an object is close the led should turn on and warning message should be printed.
 
 
+# SMART AUTOMATIC DRIP IRRIGATION
+
+[Go to this project](https://github.com/Dakshitha96/Arduino_with_Proteus/tree/main/SMART%20AUTOMATIC%20DRIP%20IRRIGATION%20SYSTEM)
+
+Automatic Irrigation System with integrated temperature sensor which waters your plants automatically. This system is best suited for drip irrigation technique. This System will help you to irrigate your backyard Garden or your Indoor Garden automatically and you need not worry about watering your favourite plants in your busy schedule.
+
+<img align="" width="300" src="SMART AUTOMATIC DRIP IRRIGATION SYSTEM/SMART AUTOMATIC DRIP IRRIGATION SYSTEM.png" alt="SMART AUTOMATIC DRIP IRRIGATION" />
 
 ### ❤️ 🤝 Treat me, with write a recommendation via [LinkdIn](https://www.linkedin.com/in/dakshitha-dissanayaka-099a09143/) 
 
