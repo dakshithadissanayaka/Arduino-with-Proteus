@@ -10,6 +10,8 @@ In order to configure an XBee module we have to be able to “talk” to it. The
 ### L298N Motor Driver Module intro
 This L298N Motor Driver Module is a high power motor driver module for driving DC and Stepper Motors. This module consists of an L298 motor driver IC and a 78M05 5V regulator. L298N Module can control up to 4 DC motors, or 2 DC motors with directional and speed control.
 
+================================================================================================================================
+
 # CONTROL SYSTEM FOR TURTLE BOT
 There are two Proteus Simulations. The first Simulation is of Remote control with a keypad. The second simulation contains two DC Motors. The direction of those DC Motors is controlled using Remote Control. XBee Module is used for sending wireless data.
 
