@@ -37,4 +37,5 @@ Ultrasonic distance sensor is used to make sure the robot does not collide with 
 
 
 
-### ❤️ 🤝 Treat me, with write a recommendation via [LinkdIn](https://www.linkedin.com/in/dakshitha-dissanayaka-099a09143/)  (Dakshitha Dissanayaka)
+### ❤️ 🤝 Treat me, with write a recommendation via [LinkdIn](https://www.linkedin.com/in/dakshitha-dissanayaka-099a09143/) 
+
