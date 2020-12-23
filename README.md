@@ -1,7 +1,12 @@
 ## Inroduction for each project
 
-# DC Motor Control using XBee and Arduino
+# DC Motor Control using XBee and Arduino  
+[Go to this Project](https://github.com/Dakshitha96/Arduino_with_Proteus/tree/main/DC%20Motor%20Control%20using%20XBee%20and%20Arduino)
+
 There are two Proteus Simulations. The first Simulation is of Remote control with a keypad. The second simulation contains two DC Motors. The direction of those DC Motors is controlled using Remote Control. XBee Module is used for sending wireless data.
+
+<img align="" width="300" src="DC Motor Control using XBee and Arduino/DC_Moter_Control.png" alt="DC_Moter_Control" />
+<img align="" width="300" src="DC Motor Control using XBee and Arduino/Remote_Control_for_DC_Motor.png" alt="Remote_Control_for_DC_Motor" />
 
 ### XBee intro
 XBee is a brand from Digi International which represents a series of radio devices based on the 802.15.4 standard (2003). As of today, the XBee modules present themselves with a wide range of product designs to support a variety of needs in the field of communications.
@@ -15,7 +20,11 @@ This L298N Motor Driver Module is a high power motor driver module for driving D
 
 
 # CONTROL SYSTEM FOR TURTLE BOT
+[Go to this project](https://github.com/Dakshitha96/Arduino_with_Proteus/tree/main/CONTROL%20SYSTEM%20FOR%20TURTLE%20BOT)
+
 There are two Proteus Simulations. The first Simulation is of Remote control with a keypad. The second simulation contains two DC Motors. The direction of those DC Motors is controlled using Remote Control. XBee Module is used for sending wireless data.
+
+<img align="" width="300" src="CONTROL SYSTEM FOR TURTLE BOT/CONTROL SYSTEM FOR TURTLE BOT.png" alt="CONTROL SYSTEM FOR TURTLE BOT" />
 
 ### Turtle Bot intro
 TurtleBot is a low-cost, personal robot kit with open-source software. TurtleBot was created at Willow Garage by Melonee Wise and Tully Foote in November 2010. With TurtleBot, We’ll be able to build a robot that can drive around your house, see in 3D, and have enough horsepower to create exciting applications
@@ -28,4 +37,4 @@ Ultrasonic distance sensor is used to make sure the robot does not collide with 
 
 
 
-[Follow me on LinkdIn 😉](https://www.linkedin.com/in/dakshitha-dissanayaka-099a09143/)
+### ❤️ 🤝 Treat me, with write a recommendation via [LinkdIn](https://www.linkedin.com/in/dakshitha-dissanayaka-099a09143/)
