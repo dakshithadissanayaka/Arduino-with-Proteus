@@ -44,5 +44,5 @@ Automatic Irrigation System with integrated temperature sensor which waters your
 
 <img align="" width="300" src="SMART AUTOMATIC DRIP IRRIGATION SYSTEM/SMART AUTOMATIC DRIP IRRIGATION SYSTEM.png" alt="SMART AUTOMATIC DRIP IRRIGATION" />
 
-### ❤️ 🤝 Treat me, with write a recommendation via [LinkdIn](https://www.linkedin.com/in/dakshitha-dissanayaka-099a09143/) 
+### ❤️ 🤝 Follow me [LinkdIn](https://www.linkedin.com/in/dakshitha-dissanayaka-099a09143/) 
 
